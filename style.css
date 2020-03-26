@@ -2,12 +2,26 @@
  * CORES
  *
  * Indigo200: #9FA8DA;
+ * Indigo700: #303F9F;
  *    Cyan50: #E0F7FA;
  *   Cyan200: #80DEEA;
+ *   Cyan700: #0097A7;
  */
+
+a {
+    color: #0097A7;
+}
+
+a:hover {
+    color: #303F9F;
+}
 
 .primary-bg {
     background-color: #9FA8DA;
+}
+
+.col-md-3 {
+    padding: 15px;
 }
 
 .img-not-found {
