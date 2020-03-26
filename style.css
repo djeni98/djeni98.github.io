@@ -1,0 +1,22 @@
+/*
+ * CORES
+ *
+ * Indigo200: #9FA8DA;
+ *    Cyan50: #E0F7FA;
+ *   Cyan200: #80DEEA;
+ */
+
+.primary-bg {
+    background-color: #9FA8DA;
+}
+
+.img-not-found {
+    padding: 1.25rem;
+/*
+    background-color: #F0F0F0;
+*/
+    background-color: #E0F7FA;
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+}
