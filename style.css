@@ -21,10 +21,24 @@ a:hover {
     background-color: #9FA8DA;
 }
 
-.col-md-4 {
+.col-md-4,
+.col-lg-4,
+.col-lg-6 {
     padding: 15px;
 }
 
 .card {
     height: 100%;
+}
+
+.icons {
+    font-size: 2rem;
+    color: #0097A7;
+}
+
+.img-profile {
+    width: 15rem;
+    height: 15rem;
+    object-fit: cover;
+    border: 1rem solid #9FA8DA;
 }
