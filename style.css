@@ -14,23 +14,17 @@ a {
 
 a:hover {
     color: #303F9F;
+    text-decoration: none;
 }
 
 .primary-bg {
     background-color: #9FA8DA;
 }
 
-.col-md-3 {
+.col-md-4 {
     padding: 15px;
 }
 
-.img-not-found {
-    padding: 1.25rem;
-/*
-    background-color: #F0F0F0;
-*/
-    background-color: #E0F7FA;
-    display: flex;
-    justify-content: center;
-    font-size: 100px;
+.card {
+    height: 100%;
 }
