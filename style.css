@@ -36,6 +36,11 @@ a:hover {
     color: #0097A7;
 }
 
+.max-hw {
+    max-height: 140px;
+    max-width: 350px;
+}
+
 .img-profile {
     width: 15rem;
     height: 15rem;
